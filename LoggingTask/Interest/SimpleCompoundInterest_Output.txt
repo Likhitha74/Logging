@@ -1,0 +1,29 @@
+2020-02-25 20:05:02 INFO  InterestMain:15 - 1. SimpleInterest  2. CompoundInterest
+
+2020-02-25 20:05:02 INFO  InterestMain:16 - Enter your choice
+
+2020-02-25 20:05:05 INFO  InterestMain:24 - Enter principle amount
+
+2020-02-25 20:05:08 INFO  InterestMain:26 - Enter rate of Interest
+
+2020-02-25 20:05:10 INFO  InterestMain:28 - Enter timeperiod in years
+
+2020-02-25 20:05:12 INFO  InterestMain:32 - Simple Interest is 500.0
+
+2020-02-25 20:05:26 INFO  InterestMain:15 - 1. SimpleInterest  2. CompundInterest
+
+2020-02-25 20:05:26 INFO  InterestMain:16 - Enter your choice
+
+2020-02-25 20:05:30 INFO  InterestMain:24 - Enter principle amount
+
+2020-02-25 20:05:35 INFO  InterestMain:26 - Enter rate of Interest
+
+2020-02-25 20:05:38 INFO  InterestMain:28 - Enter timeperiod in years
+
+2020-02-25 20:05:41 INFO  InterestMain:34 - Compound Interest is 7586.6
+
+2020-02-25 20:05:59 INFO  InterestMain:15 - 1. SimpleInterest  2. CompundInterest
+
+2020-02-25 20:05:59 INFO  InterestMain:16 - Enter your choice
+
+2020-02-25 20:06:03 INFO  InterestMain:20 - Invalid Choice

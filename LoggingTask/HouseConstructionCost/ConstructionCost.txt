@@ -1,0 +1,55 @@
+2020-02-25 20:06:46 INFO  Main:17 - Available materials types
+
+2020-02-25 20:06:46 INFO  Main:19 - 1.Standard materials	2.Above standard materials	3.High Standard material	4.High Standard Material and Fully Automated Home
+
+2020-02-25 20:06:46 INFO  Main:20 - Choose a material type:
+
+2020-02-25 20:06:58 INFO  Main:27 - Enter area :
+
+2020-02-25 20:07:01 INFO  Main:29 - Cost of construction is : 600000.0
+
+2020-02-25 20:07:21 INFO  Main:17 - Available materials types
+
+2020-02-25 20:07:21 INFO  Main:19 - 1.Standard materials	2.Above standard materials	3.High Standard material	4.High Standard Material and Fully Automated Home
+
+2020-02-25 20:07:21 INFO  Main:20 - Choose a material type:
+
+2020-02-25 20:07:26 INFO  Main:27 - Enter area :
+
+2020-02-25 20:07:30 INFO  Main:29 - Cost of construction is : 660000.0
+
+2020-02-25 20:07:37 INFO  Main:17 - Available materials types
+
+2020-02-25 20:07:37 INFO  Main:19 - 1.Standard materials	2.Above standard materials	3.High Standard material	4.High Standard Material and Fully Automated Home
+
+2020-02-25 20:07:37 INFO  Main:20 - Choose a material type:
+
+2020-02-25 20:07:43 INFO  Main:27 - Enter area :
+
+2020-02-25 20:07:47 INFO  Main:29 - Cost of construction is : 875000.0
+
+2020-02-25 20:07:58 INFO  Main:17 - Available materials types
+
+2020-02-25 20:07:58 INFO  Main:19 - 1.Standard materials	2.Above standard materials	3.High Standard material	4.High Standard Material and Fully Automated Home
+
+2020-02-25 20:07:58 INFO  Main:20 - Choose a material type:
+
+2020-02-25 20:08:04 INFO  Main:27 - Enter area :
+
+2020-02-25 20:08:07 INFO  Main:29 - Cost of construction is : 900000.0
+
+2020-02-25 20:08:15 INFO  Main:17 - Available materials types
+
+2020-02-25 20:08:15 INFO  Main:19 - 1.Standard materials	2.Above standard materials	3.High Standard material	4.High Standard Material and Fully Automated Home
+
+2020-02-25 20:08:15 INFO  Main:20 - Choose a material type:
+
+2020-02-25 20:08:19 INFO  Main:24 - Invalid choice
+
+2020-02-25 20:08:23 INFO  Main:17 - Available materials types
+
+2020-02-25 20:08:23 INFO  Main:19 - 1.Standard materials	2.Above standard materials	3.High Standard material	4.High Standard Material and Fully Automated Home
+
+2020-02-25 20:08:23 INFO  Main:20 - Choose a material type:
+
+2020-02-25 20:08:28 INFO  Main:24 - Invalid choice
